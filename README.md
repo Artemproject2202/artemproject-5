@@ -28,7 +28,7 @@
 ## 📁 Репозитории
 1. **Задание 1:** [ТЫК](https://github.com/Artemproject2202/artemproject.git)
 2. **Задание 2:** [ТЫК](https://github.com/Artemproject2202/artemproject-1.git)
-3. **Задание 3:** [ТЫК]()
+3. **Задание 3:** [ТЫК](https://github.com/shinsetsuwhy/allproject-2.git)
 4. **Задание 4:** [ТЫК](https://github.com/Artemproject2202/artemproject-2.git)
 5. **Задание 5:** [ТЫК](https://github.com/Artemproject2202/artemproject-4.git)
 6. **Задание 6:** [ТЫК](https://github.com/Artemproject2202/artemproject-5.git)
